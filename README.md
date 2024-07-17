@@ -11,6 +11,10 @@ Use the arrow keys to move the tiles. When two tiles with the same number touch,
 - **Up Arrow**: Move tiles up.
 - **Down Arrow**: Move tiles down.
 
+- [Demo Link](https://t-vulpes.github.io/2048/)
+
+
+
 # 2048 TR
 
 x Bu JavaScript, HTML ve CSS ile kodladığım 2048 oyunudur. x
